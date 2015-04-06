@@ -1,0 +1,5 @@
+app:
+    path: /
+    defaults:
+        _controller: FrameworkBundle:Template:template
+        template: App:Layout:base.html.twig
